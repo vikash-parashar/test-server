@@ -110,3 +110,6 @@ Remember to change back the GOOS and GOARCH environment variables to their origi
 set GOOS=windows
 set GOARCH=amd64
 ```
+
+
+- [Github Link ](https://github.com/vikash-parashar): Copyrights @vikash-parashar
